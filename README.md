@@ -8,7 +8,7 @@ Setup and Installation
 4. to connect with the database write the following two command  go get "github.com/jinzhu/gorm" go get "github.com/jinzhu/gorm/dialects/mysql"
 
 RUN:
-To run this application we first have to build our application type the follooowing command 
+To run this application we first have to build our application type the following command 
 1. cd cmd/main
 2. go build
 3. go run main.go
